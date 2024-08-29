@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BigFileReader": {
+      "commandName": "Project",
+      "commandLineArgs": "\"..\\..\\..\\..\\BIG_FILE.TXT\""
+    }
+  }
+}

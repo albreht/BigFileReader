@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BigFileReader", "BigFileReader\BigFileReader.csproj", "{7EB2E10D-B0EC-4849-B090-9CC671A049A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "BigFileReader.Tests\BigFileReader.Tests.csproj", "{3C92501F-964B-4134-BE39-C3AE8B497F85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB2E10D-B0EC-4849-B090-9CC671A049A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB2E10D-B0EC-4849-B090-9CC671A049A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB2E10D-B0EC-4849-B090-9CC671A049A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB2E10D-B0EC-4849-B090-9CC671A049A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C92501F-964B-4134-BE39-C3AE8B497F85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C92501F-964B-4134-BE39-C3AE8B497F85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C92501F-964B-4134-BE39-C3AE8B497F85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C92501F-964B-4134-BE39-C3AE8B497F85}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA827B16-1AB1-49D9-919F-6CDD1ECEC64D}
+	EndGlobalSection
+EndGlobal
